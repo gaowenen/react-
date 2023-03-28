@@ -1,0 +1,10 @@
+:where(.css-dev-only-do-not-override-mxhywb).ant-modal .ant-modal-footer {
+    display: flex;
+    justify-content : space-between;
+   align-items: center;
+}
+:where(.css-dev-only-do-not-override-mxhywb).ant-form-item .ant-form-item-control-input .icon {
+    display: flex !important;
+    height: 30px;
+    /* line-height: 30px; */
+}
